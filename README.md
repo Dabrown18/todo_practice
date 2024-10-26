@@ -2,6 +2,18 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Add Todos
+
+https://github.com/user-attachments/assets/6055b1e7-a317-48a7-85f4-6a17ab3cda37
+
+## Delete Todos
+
+https://github.com/user-attachments/assets/59e23e70-6c0d-4671-a290-b5129b07fe9d
+
+## Filter Todos
+
+https://github.com/user-attachments/assets/2b9df6dd-ec0b-482a-b871-6bb924c5ec5b
+
 ## Get started
 
 1. Install dependencies
